@@ -21,7 +21,7 @@ For the "DYNAMIC ARTWORK MP4 FOR MIXXX" Group, place [animatediff_lightning_4ste
 
 Artwork generation models used in the demo video: [DreamShaper 8](https://civitai.com/models/4384) [Pixel Sorting](https://civitai.com/models/57963?modelVersionId=128713) [J.R. "Bob" Dobbs - v1.0](https://civitai.com/models/74788?modelVersionId=79532)
 
-After generating your first mp4 in ComfyUI with MozAIk_v1.json, open Mixxx and navigate via the Library to the "audio" folder inside ComfyUI > outputs. Right click on the "audio" folder and select "Add to Quick Links". You will now be able to see the generated .mp4's under "Tracks" in the Library, and (on Windows) can use the shortcut Ctrl+Shift+L to rescan the Library.
+After generating your first .mp4 in ComfyUI with MozAIk_v1.json, open Mixxx and navigate via the Library to the "audio" folder inside ComfyUI > outputs. Right click on the "audio" folder and select "Add to Quick Links". You will now be able to see the newly generated .mp4's under "Tracks" in the Library, and (on Windows) can use the shortcut Ctrl+Shift+L to rescan the Library.
 
 The MozAIk intro video used the prompt "160bpm trap heaven church dubstep jungle". This generates audio that mostly has either 80/160 bpm although there are also generations that have other random bpm.
 
