@@ -18,7 +18,9 @@ Install Mixxx: https://mixxx.org/download/ Install ComfyUI: https://github.com/c
 
 Tested with Mixxx 2.4.1, if you have any issues with 2.5.0, please report back.
 
-After installing Mixxx, ComfyUI, the [Manager](https://github.com/ltdrdata/ComfyUI-Manager), [AnimateDiff Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved) and [VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite), download [stable_audio_open_1.0.safetensors](https://huggingface.co/audo/stable-audio-open-1.0/blob/main/model.safetensors) and place in ComfyUI > models > checkpoints folder. Download "t5_base.safetensors" from the Model Manager for the "AUDIO GENERATION" Group. 
+After installing ComfyUI, install the [Manager](https://github.com/ltdrdata/ComfyUI-Manager), [AnimateDiff Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved) and [VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite) custom nodes (start with the Manager).
+
+For the "AUDIO GENERATION" Group, download [stable_audio_open_1.0.safetensors](https://huggingface.co/audo/stable-audio-open-1.0/blob/main/model.safetensors) and place in ComfyUI > models > checkpoints folder. Download "t5_base.safetensors" from the Model Manager. 
 
 For the "STATIC ARTWORK MP4 FOR MIXXX" Group, the lcm LoRA "pytorch_lora_weights.safetensors" and "vae-ft-mse-840000-ema-pruned.safetensors" can be downloaded via the Model Manager.
 
