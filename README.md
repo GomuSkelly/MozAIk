@@ -25,11 +25,17 @@ Tested with Mixxx 2.4.1, if you have any issues with 2.5.0, please report back.
 
 After installing ComfyUI, install the [Manager](https://github.com/ltdrdata/ComfyUI-Manager), [AnimateDiff Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved) and [VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite) custom nodes (start with the Manager).
 
-For the "AUDIO GENERATION" Group, download [stable_audio_open_1.0.safetensors](https://huggingface.co/audo/stable-audio-open-1.0/blob/main/model.safetensors) and place in ComfyUI > models > checkpoints folder. Download "t5_base.safetensors" from the Model Manager. 
+**AUDIO GENERATION Group**
 
-For the "STATIC ARTWORK MP4 FOR MIXXX" Group, the lcm LoRA "pytorch_lora_weights.safetensors" and "vae-ft-mse-840000-ema-pruned.safetensors" can be downloaded via the Model Manager.
+Download [stable_audio_open_1.0.safetensors](https://huggingface.co/audo/stable-audio-open-1.0/blob/main/model.safetensors) and place in ComfyUI > models > checkpoints folder. Download "t5_base.safetensors" from the Model Manager. 
 
-For the "DYNAMIC ARTWORK MP4 FOR MIXXX" Group, place [animatediff_lightning_4step_comfyui.safetensors](https://huggingface.co/ByteDance/AnimateDiff-Lightning/blob/main/animatediff_lightning_4step_comfyui.safetensors) in the ComfyUI > models > animatediff_models folder.
+**STATIC ARTWORK MP4 FOR MIXXX Group**
+
+The lcm LoRA "pytorch_lora_weights.safetensors" and "vae-ft-mse-840000-ema-pruned.safetensors" can be downloaded via the Model Manager.
+
+**DYNAMIC ARTWORK MP4 FOR MIXXX Group** 
+
+Download and place [animatediff_lightning_4step_comfyui.safetensors](https://huggingface.co/ByteDance/AnimateDiff-Lightning/blob/main/animatediff_lightning_4step_comfyui.safetensors) in the ComfyUI > models > animatediff_models folder.
 
 Artwork generation models used in the demo video: [DreamShaper 8](https://civitai.com/models/4384) [Pixel Sorting](https://civitai.com/models/57963?modelVersionId=128713) [J.R. "Bob" Dobbs - v1.0](https://civitai.com/models/74788?modelVersionId=79532)
 
