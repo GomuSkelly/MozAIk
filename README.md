@@ -15,7 +15,7 @@ Tested with Mixxx 2.4.1, if you have any issues with 2.5.0, please report back.
 
 After installing Mixxx, ComfyUI, the [Manager](https://github.com/ltdrdata/ComfyUI-Manager), [AnimateDiff Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved) and [VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite), download "stable_audio_open_1.0.safetensors" and "t5_base.safetensors" from the Manager for the "AUDIO GENERATION" Group. 
 
-For the "STATIC ARTWORK MP4 FOR MIXXX" Group, the lcm LoRA "pytorch_lora_weights.safetensors" and "vae-ftmse-840000-ema-pruned.safetensors" can be downloaded via the Manager.
+For the "STATIC ARTWORK MP4 FOR MIXXX" Group, the lcm LoRA "pytorch_lora_weights.safetensors" and "vae-ft-mse-840000-ema-pruned.safetensors" can be downloaded via the Manager.
 
 For the "DYNAMIC ARTWORK MP4 FOR MIXXX" Group, place [animatediff_lightning_4step_comfyui.safetensors](https://huggingface.co/ByteDance/AnimateDiff-Lightning/blob/main/animatediff_lightning_4step_comfyui.safetensors) in the ComfyUI > models > animatediff_models folder.
 
