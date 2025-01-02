@@ -7,7 +7,12 @@ https://github.com/user-attachments/assets/aeb8d03f-1225-4dec-91bc-5e8eca3f3989
 
 2025-01-01 MozAIk v1 released.
 
-Setup Guide to follow (messy draft guide being fleshed out presently)
+Setup Guide *to follow* (messy draft guide being fleshed out presently)
+
+
+Minimum Specifications for MozAIk v1 *to follow* (more testing on older devices required)
+
+The small demo video released Jan 1st was created with a 4060TI 16GB. Running ComfyUI, Mixxx, OBS (recording@4k) generations take around 30 seconds with looping video artwork, and approx. 14 seconds for static artwork. 
 
 Install Mixxx: https://mixxx.org/download/ Install ComfyUI: https://github.com/comfyanonymous/ComfyUI/releases, download the MozAIk workflow, and check back in the hours ahead for detailed instructions.
 
@@ -32,3 +37,5 @@ For the initial release, a limited amount of custom nodes were used to ensure th
 In the days ahead, there will be more complex workflows released, and a video guide (and much better documentation!). Today we release a basic template, and plant the seed of MozAIk.
 
 Have fun!
+
+
