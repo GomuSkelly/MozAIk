@@ -1,15 +1,15 @@
 # MozAIk
-Generative A\VJ System
+**Generative A\VJ System**
+
+MozAIk v1 wf is a barebones implementation in ComfyUI for audio/artwork generation. Combined with the Mixxx DJing software, it constitutes the realtime generative DJing aspect of MozAIk's A\VJ system. 
+
 
 ![MozAIk](https://github.com/user-attachments/assets/64cf2bcf-6e3b-403e-bced-e89ba1f27cee)
 
 https://github.com/user-attachments/assets/aeb8d03f-1225-4dec-91bc-5e8eca3f3989
 
-2025-01-01 MozAIk v1 released.
+**2025-01-01 MozAIk v1 released.**
 
-Description
-
-MozAIk v1 wf is a barebones implementation in ComfyUI for audio/artwork generation. Combined with the Mixxx DJing software, it constitutes the realtime generative DJing aspect of MozAIk's A\VJ system. 
 
 
 Setup Guide *to follow* (messy draft guide being fleshed out presently)
@@ -37,7 +37,7 @@ After generating your first .mp4 in ComfyUI with MozAIk_v1.json, open Mixxx and 
 
 The MozAIk intro video used the prompt "160bpm trap heaven church dubstep jungle". This generates audio that mostly has either 80/160 bpm although there are also generations that have other random bpm.
 
-In Mixxx, right click on the generated audio under "Tracks", and select "Analyse". Select all files generated with the above example prompt that have 80/160 bpm, and copy them to "Auto DJ". The Auto DJ fade mode should be set to "Full Intro + Outro" with the transition duration set to 23. Shift+F12 enables Auto DJ.
+In Mixxx, right click on the generated audio under "Tracks", and select "Analyse". Select all files generated with the above example prompt *that have 80/160 bpm*, and copy them to "Auto DJ". The Auto DJ fade mode should be set to "Full Intro + Outro" with the transition duration set to 23. Shift+F12 enables Auto DJ.
 
 For the initial release, a limited amount of custom nodes were used to ensure the core of MozAIk's audio system can be set up without many complications for beginners. 
 
