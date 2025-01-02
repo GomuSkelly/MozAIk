@@ -1,2 +1,29 @@
-https://github.com/AnonymUnsichtbar/MIXXX-Harmonic-Autodj-with-Bass-adjustiment?tab=readme-ov-file
+https://github.com/AnonymUnsichtbar/MIXXX-Harmonic-Autodj-with-Bass-adjustiment?tab=readme-ov-file - Mixxx Script for the Autodj that adjusts the Bass while mixing to ensure that the drums of the current track are quiet while transitioning. 
+
+https://mixxx.discourse.group/t/auto-dj-extension-for-beatmatching-and-harmonic-mixing/15962/35
+
+https://github.com/Nukesor/mixxx-library-exporter - A small converter tool, which exports a mixxx library into other formats. 
+
+https://github.com/ViktorNova/mixxx-now-playing - Little script to help OBS / other apps display the currently playing track from Mixxx by writing "Artist - Songname" to a text file on a regular interval (Linux / Mac only). 
+
+https://github.com/VamLykTan/mixxx-now-playing-to-Visual-Frame - In the first step, it is strongly recommended to install the tool "mixxx-now-playing" from ViktorNova according to its instructions. Next, you can install this without any problems and integrate the visual display into any streaming program (e.g. OBS studio). Depending on the Linux system, the two fonts must be installed manually.
+
+https://github.com/apmiller108/mixxx_midi_clock - Ardunio based MIDI clock generator for Mixxx. MIDI clock can be used to sync external gear (sequencer, samplers, drum machinem etc...) to tracks playing in Mixxx.
+
+https://www.reddit.com/r/MIXXX/comments/1hp5las/arduino_midi_clock_for_mixxx_project/
+
+https://github.com/fwcd/m1xxx - Unofficial native Mixxx builds for macOS (Apple Silicon/Intel) and Linux 
+
+https://github.com/JCCoynel/NovationLaunchpadMiniMixxSampler - A Mixxx controller setup for the Lauchpad Mini MK2 specialized for sampler control
+
+https://github.com/geraldog/mixxx/tree/fourstems_padj - Mixxx augmented with Stems and Programmable AutoDJ
+
+https://github.com/randombyte-developer/crates-generator - A tool for generating M3U playlists based on the track folder structure.
+
+
+
+
+
+
+
 
