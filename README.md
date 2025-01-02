@@ -17,7 +17,8 @@ Setup Guide *to follow* (messy draft guide being fleshed out presently)
 
 Minimum Specifications for MozAIk v1 *to follow* (more testing on older devices required)
 
-The small demo video released Jan 1st was created with a 4060TI 16GB. Running ComfyUI, Mixxx, OBS (recording@4k) generations take around 30 seconds with looping video artwork, and approx. 14 seconds for static artwork. 
+
+The small demo video released Jan 1st was created with a 4060TI 16GB. Running ComfyUI, Mixxx, OBS (recording@4k) generations take around 30 seconds with looping video artwork, and approx. 14 seconds for static artwork. ComfyUI audio generation and Mixxx has been tested (without artwork generation) in audio effects heavy setups on a laptop with 4060 8GB card and 16GB system RAM, and plays without issue for hours. A desktop 3060 12GB and laptop 2060 6GB will be used for testing to establish minimum spec. In the meantime, if you're testing and have success on lower spec hardware, let us know!
 
 Install Mixxx: https://mixxx.org/download/ Install ComfyUI: https://github.com/comfyanonymous/ComfyUI/releases, download the MozAIk workflow, and check back in the hours ahead for detailed instructions.
 
