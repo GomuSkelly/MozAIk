@@ -25,7 +25,7 @@ After generating your first mp4 in ComfyUI with MozAIk_v1.json, open Mixxx and n
 
 The MozAIk intro video used the prompt "160bpm trap heaven church dubstep jungle". This generates audio that mostly has either 80/160 bpm although there are also generations that have other random bpm.
 
-In Mixxx, right click on the generated audio under "Tracks", and select "Analyse". For this prompt, select all files that have 80/160 bpm, and copy them to "Auto DJ". The Auto DJ fade mode should be set to "Full Intro + Outro" with the transition duration set to 23. Shift+F12 enables Auto DJ.
+In Mixxx, right click on the generated audio under "Tracks", and select "Analyse". Select all files generated with the above example prompt that have 80/160 bpm, and copy them to "Auto DJ". The Auto DJ fade mode should be set to "Full Intro + Outro" with the transition duration set to 23. Shift+F12 enables Auto DJ.
 
 For the initial release, a limited amount of custom nodes were used to ensure the core of MozAIk's audio system can be set up without many complications for beginners. 
 
