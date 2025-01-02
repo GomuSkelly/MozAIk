@@ -7,6 +7,11 @@ https://github.com/user-attachments/assets/aeb8d03f-1225-4dec-91bc-5e8eca3f3989
 
 2025-01-01 MozAIk v1 released.
 
+Description
+
+MozAIk v1 wf is a barebones implementation in ComfyUI for audio/artwork generation. Combined with the Mixxx DJing software, it constitutes the realtime generative DJing aspect of MozAIk's A\VJ system. 
+
+
 Setup Guide *to follow* (messy draft guide being fleshed out presently)
 
 
