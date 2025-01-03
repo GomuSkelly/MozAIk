@@ -8,7 +8,11 @@ MozAIk v1 wf is a barebones implementation in ComfyUI for audio/artwork generati
 
 https://github.com/user-attachments/assets/aeb8d03f-1225-4dec-91bc-5e8eca3f3989
 
+
+
 **2025-01-01 MozAIk v1 released.**
+
+Quick Demo: https://www.youtube.com/watch?v=hdIFKt8geU8
 
 
 
