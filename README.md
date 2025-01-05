@@ -69,6 +69,17 @@ Tested with Mixxx 2.4.1, if you have any issues with 2.5.0, please report back.
 
 
 
+**Setup Guide + Specifications for MozAIk_Generative-Sampler_v1:**
+
+As above, but also install [cg-use-everywhere](https://github.com/chrisgoringe/cg-use-everywhere) nodes via the Manager in ComfyUI.
+
+On a 4060TI 16GB, the newly added generative sampler takes just under 10 mins to create a full 64 clip sample bank at 47.6s per sample length.
+
+YMMV with samples shorter/longer than 47.6s.
+
+(Some prompts work really well with a few seconds sample length and others sound garbled)
+
+
 **Models:**
 
-All necessary model links are now in the notes of our workflows. (Contained within the MozAIk_v1.1.json)
+All necessary model links are now in the notes of our workflows. (Contained within the MozAIk_v1.2.json)
