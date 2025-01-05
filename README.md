@@ -33,7 +33,7 @@ Install ComfyUI: https://github.com/comfyanonymous/ComfyUI/releases
 
 Install [Manager](https://github.com/ltdrdata/ComfyUI-Manager), [AnimateDiff Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved) and [VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite) (Start with the Manager).
 
-Download [MozAIk_v1.1.json ](https://github.com/GomuSkelly/MozAIk/blob/main/MozAIk_v1.1.json) and with ComfyUI open, drag the .json file into the browser window.
+Download [MozAIk_v1.2.json ](https://github.com/GomuSkelly/MozAIk/blob/main/MozAIk_v1.2.json) and with ComfyUI open, drag the .json file into the browser window.
 
 The MozAIk intro video used the prompt "160bpm trap heaven church dubstep jungle". Copy this prompt and paste it where you can see the supplied prompt "laughing". This generates audio that mostly has either 80/160 bpm (*even with "160bpm" in the prompt, some generations have a random bpm - hide/delete these from the Mixxx Library).
 
@@ -55,7 +55,7 @@ On Windows, Shift+F12 enables Auto DJ.
 
 
 
-**Specifications for MozAIk v1.1:**
+**Specifications for MozAIk v1.2:**
 
 The small demo video released Jan 1st was created with a 4060TI 16GB. 
 
