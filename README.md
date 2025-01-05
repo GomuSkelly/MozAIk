@@ -68,6 +68,9 @@ Tested with Mixxx 2.4.1, if you have any issues with 2.5.0, please report back.
 All necessary model links are now in the notes of our workflows. (Contained within the MozAIk_v1.1.json and upcoming wf's)
 
 
+
+**Note:**
+
 For the initial release, a limited amount of custom nodes were used to ensure the core of MozAIk's audio system can be set up without many complications for beginners. 
 
 In the days ahead, there will be more complex workflows released. Today we release a basic template, and plant the seed of MozAIk.
