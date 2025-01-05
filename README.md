@@ -65,7 +65,7 @@ Tested with Mixxx 2.4.1, if you have any issues with 2.5.0, please report back.
 
 **Models:**
 
-All necessary model links are now in the notes of our workflows. (Contained within the MozAIk_v1.1.json and upcoming wf's)
+All necessary model links are now in the notes of our workflows. (Contained within the MozAIk_v1.1.json)
 
 
 
