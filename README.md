@@ -82,4 +82,4 @@ YMMV with samples shorter/longer than 47.6s.
 
 **Models:**
 
-All necessary model links are now in the notes of our workflows. (Contained within the MozAIk_v1.2.json)
+All necessary model links are now in the notes of our workflows. (Contained within the .json files)
