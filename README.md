@@ -16,7 +16,9 @@ https://github.com/user-attachments/assets/aeb8d03f-1225-4dec-91bc-5e8eca3f3989
 
 For the initial release, a limited amount of custom nodes were used to ensure the core of MozAIk's audio system can be set up without many complications for beginners. 
 
-In the days ahead, there will be more complex workflows released. Today we release a basic template, and plant the seed of MozAIk.
+In the days ahead, there will be more complex workflows released. 
+
+Today we release a basic template, and plant the seed of MozAIk.
 
 Have fun!
 
