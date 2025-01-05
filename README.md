@@ -16,6 +16,7 @@ Quick Demo: https://www.youtube.com/watch?v=hdIFKt8geU8
 
 
 
+
 **Setup Guide:**
 
 Install Mixxx: https://mixxx.org/download/ 
@@ -24,13 +25,9 @@ Install ComfyUI: https://github.com/comfyanonymous/ComfyUI/releases
 
 Install [Manager](https://github.com/ltdrdata/ComfyUI-Manager), [AnimateDiff Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved) and [VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite) (Start with the Manager).
 
-Download [MozAIk_v1.1.json 
-](https://github.com/GomuSkelly/MozAIk/blob/main/MozAIk_v1.1.json
-) and with ComfyUI open, drag the .json file into the browser window.
+Download [MozAIk_v1.1.json ](https://github.com/GomuSkelly/MozAIk/blob/main/MozAIk_v1.1.json) and with ComfyUI open, drag the .json file into the browser window.
 
-The MozAIk intro video used the prompt "160bpm trap heaven church dubstep jungle". Copy this prompt and paste it where you can see the supplied prompt "laughing".
-
-This generates audio that mostly has either 80/160 bpm although there are also generations that have other random bpm.
+The MozAIk intro video used the prompt "160bpm trap heaven church dubstep jungle". Copy this prompt and paste it where you can see the supplied prompt "laughing". This generates audio that mostly has either 80/160 bpm although there are also generations that have other random bpm.
 
 After generating your first .mp4 in ComfyUI with MozAIk_v1.1.json, open Mixxx and navigate via the Library to the "audio" folder inside ComfyUI > outputs. 
 
