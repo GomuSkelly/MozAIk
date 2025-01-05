@@ -6,12 +6,6 @@ MozAIk v1 wf is a barebones implementation in ComfyUI for audio/artwork generati
 
 ![MozAIk Demo](https://github.com/user-attachments/assets/a2a9b863-691a-4755-a113-f3560c0053c3)
 
-![MozAIK_v1 1](https://github.com/user-attachments/assets/8df25597-3ca0-4324-ab98-57baab2b35c1)
-
-https://github.com/user-attachments/assets/aeb8d03f-1225-4dec-91bc-5e8eca3f3989
-
-
-
 **2025-01-01 MozAIk v1 released.**
 
 For the initial release, a limited amount of custom nodes were used to ensure the core of MozAIk's audio system can be set up without many complications for beginners. 
@@ -22,6 +16,9 @@ Today we release a basic template, and plant the seed of MozAIk.
 
 Have fun!
 
+![MozAIK_v1 1](https://github.com/user-attachments/assets/8df25597-3ca0-4324-ab98-57baab2b35c1)
+
+https://github.com/user-attachments/assets/aeb8d03f-1225-4dec-91bc-5e8eca3f3989
 
 Quick Demo: https://www.youtube.com/watch?v=hdIFKt8geU8
 
@@ -38,7 +35,7 @@ Install [Manager](https://github.com/ltdrdata/ComfyUI-Manager), [AnimateDiff Evo
 
 Download [MozAIk_v1.1.json ](https://github.com/GomuSkelly/MozAIk/blob/main/MozAIk_v1.1.json) and with ComfyUI open, drag the .json file into the browser window.
 
-The MozAIk intro video used the prompt "160bpm trap heaven church dubstep jungle". Copy this prompt and paste it where you can see the supplied prompt "laughing". This generates audio that mostly has either 80/160 bpm although there are also generations that have other random bpm.
+The MozAIk intro video used the prompt "160bpm trap heaven church dubstep jungle". Copy this prompt and paste it where you can see the supplied prompt "laughing". This generates audio that mostly has either 80/160 bpm (*even with "160bpm" in the prompt, some generations that will have other random bpm - hide/delete these from the Mixxx Library).
 
 After generating your first .mp4 in ComfyUI with MozAIk_v1.1.json, open Mixxx and navigate via the Library to the "audio" folder inside ComfyUI > outputs. 
 
@@ -50,7 +47,7 @@ On Windows, Ctrl+Shift+L rescans the Library for new audio material as it is bei
 
 In Mixxx, right click on the generated audio under "Tracks", and select "Analyse". 
 
-Select all files generated with the above example prompt *that have 80/160 bpm*, and copy them to "Auto DJ". 
+Select all files generated with the above example prompt *that have 80/160 bpm*, and drag them to "Auto DJ". 
 
 The Auto DJ fade mode should be set to "Full Intro + Outro" with the transition duration set to **23**. 
 
