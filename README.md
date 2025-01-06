@@ -1,5 +1,6 @@
-# MozAIk
-**Generative A\VJ System**
+## MozAIk
+
+### Generative A\VJ System
 
 MozAIk v1 wf is a barebones implementation in ComfyUI for audio/artwork generation. Combined with the Mixxx DJing software, it constitutes the realtime generative DJing aspect of MozAIk's A\VJ system. 
 
@@ -25,7 +26,7 @@ Quick Demo: https://www.youtube.com/watch?v=hdIFKt8geU8
 
 
 
-**Setup Guide:**
+### Setup Guide:
 
 Install Mixxx: https://mixxx.org/download/ 
 
@@ -55,7 +56,7 @@ On Windows, Shift+F12 enables Auto DJ.
 
 
 
-**Specifications for MozAIk v1.3:**
+### Specifications for MozAIk v1.3:
 
 The small demo video released Jan 1st was created with a 4060TI 16GB. 
 
@@ -69,7 +70,7 @@ Tested with Mixxx 2.4.1, if you have any issues with 2.5.0, please report back.
 
 
 
-**Setup Guide + Specifications for MozAIk_Generative-Sampler_v1:**
+### Setup Guide + Specifications for MozAIk_Generative-Sampler_v1:
 
 As above, but also install [cg-use-everywhere](https://github.com/chrisgoringe/cg-use-everywhere) nodes via the Manager in ComfyUI.
 
@@ -80,6 +81,6 @@ YMMV with samples shorter/longer than 47.6s.
 (Some prompts work really well with a few seconds sample length and others sound garbled)
 
 
-**Models:**
+### Models:
 
 All necessary model links are now in the notes of our workflows. (Contained within the .json files)
