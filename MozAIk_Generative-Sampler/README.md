@@ -2,6 +2,8 @@
 
 Follow [this guide](https://github.com/GomuSkelly/MozAIk/edit/main/README.md), then install [cg-use-everywhere](https://github.com/chrisgoringe/cg-use-everywhere) nodes via the Manager in ComfyUI.
 
+[Download MozAIk_Generative-Sampler_v1.1.json](https://github.com/GomuSkelly/MozAIk/blob/main/MozAIk_Generative-Sampler/MozAIk_Generative-Sampler_v1.1.json) and with ComfyUI open, drag the .json file into the browser window.
+
 On a 4060TI 16GB, the newly added generative sampler takes just under 10 mins to create a full 64 clip sample bank at 47.6s per sample length.
 
 YMMV with samples shorter/longer than 47.6s.
