@@ -4,9 +4,9 @@ Follow [this guide](https://github.com/GomuSkelly/MozAIk/edit/main/README.md), t
 
 Download [MozAIk_Generative-Sampler_v1.1.json](https://github.com/GomuSkelly/MozAIk/blob/main/MozAIk_Generative-Sampler/MozAIk_Generative-Sampler_v1.1.json) and with ComfyUI open, drag the .json file into the browser window.
 
-On a 4060TI 16GB, the newly added generative sampler takes just under 10 mins to create a full 64 clip sample bank at 47.6s per sample length.
+On a 4060TI 16GB, the generative sampler takes just under 10 mins to create a full 64 clip sample bank (at 47.6s per sample length).
 
-YMMV with samples shorter/longer than 47.6s.
+It's possible to change the length of the samples generated
 
-(Some prompts work really well with a few seconds sample length and others sound garbled)
+YMMV with samples shorter/longer than 47.6s. Some prompts work really well with a few seconds sample length and others sound garbled.
 
