@@ -17,7 +17,7 @@ After generating your first .flac+.mp4/.mov's in ComfyUI with MozAIk_v1.5.json, 
 
 Right click on the "audio" folder and select "Add to Quick Links" and from the same menu also select "Add to Library".
 
-You will now be able to see the newly generated .mp4's under "Tracks" in the Library when opening Mixxx.
+You will now be able to see the newly generated flac/.mp4/.mov's under "Tracks" in the Library when opening Mixxx.
 
 On Windows, Ctrl+Shift+L rescans the Library for new audio material as it is being generated.
 
